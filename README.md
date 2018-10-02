@@ -1,6 +1,6 @@
 # `CITElab`
 
-`CITElab` is a laboratory for working with citable scholarly resources. 
+`CITElab` is a laboratory for working with citable scholarly resources.  Humanists study unique cultural phenomena.  At `CITElab`, we apply computational methods to canonically citable digital representations of these phenomena.
 
 
  
